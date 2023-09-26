@@ -1,6 +1,6 @@
 # Informations
 
- - This repository contains the codes for the exercises in the subject "Logic Programming", which I took in my second term at university (2022-1). All the exercises were done by Arthur Alves Assunção using the Prolog development language.
+ - This repository contains the codes for the exercises in the subject "Logic Programming", which I took in my second term at university (2022-2). All the exercises were done by Arthur Alves Assunção using the Prolog development language.
    
 
 <a href="https://facom.ufu.br/pessoas/docentes/renato-de-aquino-lopes" target="_blank"><img src="https://img.shields.io/badge/Mastered%20by-B22727.svg"></a>
